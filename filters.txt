@@ -1,0 +1,298 @@
+! Title: NooB9496 Personal filters for uBlock & AdGuard
+! Last modified: 21.09.2026
+! Description: Personal filters optimized for uBlock, works also with AdGuard
+! Homepage: https://github.com/NooB9496/NooB-UblockFilters
+! License: https://github.com/NooB9496/NooB-UblockFilters/blob/main/LICENSE
+
+||https://ma.wp.pl^
+||https://ma.wp.pl/redirma^
+||www.housebrand.com^
+||ma.wp.pl^
+||v.wpimg.pl^
+||wignewsee.club^
+||mespor.pro^
+||money.wp.pl^
+||film.wp.pl^
+||kobieta.wp.pl^
+||wroclaw.wp.pl^
+||telewizja.wp.pl^
+||dom.wp.pl^
+||tv.wp.pl^
+||moto.wp.pl^
+||pomoc.wp.pl^
+||pilot.wp.pl^
+||gry.wp.pl^
+||ksiazki.wp.pl^
+||teleshow.wp.pl^
+||kuchnia.wp.pl^
+||facet.wp.pl^
+||opinie.wp.pl^
+||wiadomosci.wp.pl^
+||sportowefakty.wp.pl^
+||wideo.wp.pl^
+||magazyn.wp.pl^
+||turystyka.wp.pl^
+||gwiazdy.wp.pl^
+||centralagier.wp.pl^
+||finanse.wp.pl^
+
+||https://www.internetdownloadmanager.com/^
+
+||https://www.facebook.com/ads/^
+||money.pl^
+
+||https://www.hellozdrowie.pl/^
+
+! 2023-01-07 https://www.poradnikzdrowie.pl
+www.poradnikzdrowie.pl###video-player-vv-yaKn-wiNJ-61Mp-vjs_html5_api
+www.poradnikzdrowie.pl##.vjs-user-inactive.vjs-playing.videoUp.video-player-vv-yaKn-wiNJ-61Mp-vjs-dimensions.vjs-layout-medium.vjs-has-started.sticky-container__video.vjs-v7.vjs-workinghover.vjs-controls-enabled.video-js.vjs-big-play-centered.vjs-styles-defaults.vjs-default-skin
+www.poradnikzdrowie.pl##.font-loaded.video_player.player.gl_plugin
+
+! 2023-01-12 https://www.techbone.net
+www.techbone.net##.show.fade.modal-backdrop
+
+! 2023-03-20 https://www.fosslinux.com
+www.fosslinux.com##.penci-adblocker-popup-container
+www.fosslinux.com##.mfp-inline-holder.mfp-s-ready.mfp-container
+www.fosslinux.com##.mfp-ready.penci-promo-popup-wrapper.mfp-ani-wrap.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+www.fosslinux.com##.mfp-ready.penci-promo-popup-wrapper.mfp-ani-wrap.mfp-bg
+
+! 2023-04-01 https://5gnotes.com
+||awqi.in/wp-content/uploads/2023/02/In-Touch-With-Tomorrow.gif$image
+||awqi.in/wp-content/uploads/2023/02/920x300-1.gif$image
+5gnotes.com###custom_html-48 > .custom-html-widget.textwidget
+||awqi.in/wp-content/uploads/2023/02/920x300-1.gif$image
+https://awqi.in/?ref=ahsan
+https://awqi.in/wp-content/uploads/2023/02/920x300.gif
+
+! 2023-05-05 https://gamedrive.org
+gamedrive.org##.active.mdpDeblocker-the-modal.mdpDeblocker-modal
+gamedrive.org##.mdpDeblocker-wrapper
+gamedrive.org##.active.mdpDeblocker-blackout
+
+! 2023-05-18 https://www.freegameplanet.com
+www.freegameplanet.com##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
+
+||euw1.smartadserver.com/^
+
+! 2023-11-09 https://www.cocolita.pl
+www.cocolita.pl##.in.fade.modal-backdrop
+
+
+! 2024-02-09 https://chomikuj.pl
+chomikuj.pl##.stayHomePromo_bnUnderTree > [href="/action/Products/SliderIndex"]
+chomikuj.pl##.stayHomePromo_bnUser > [href="/action/Products/SliderIndex"]
+
+! 2024-02-12 https://www.pepper.pl
+www.pepper.pl##div.cept-banner-id-88.cept-banner.hide--toW3.hide--toW4.listLayout-box.overflow--hidden.aGrid.js-banner:nth-of-type(39)
+||getdstudio.xyz^
+
+! 4 lip 2024 https://vrsoft.pl
+vrsoft.pl###exposeMaskOverlay
+
+! 13 lis 2024 https://www.karo.waw.pl
+www.karo.waw.pl##.in.fade.modal-backdrop
+
+! 13 lis 2024 https://sklep.greno.pl
+sklep.greno.pl##.in.fade.modal-backdrop
+
+! 1 sty 2025 https://gg.deals
+||img.gg.deals/3b/1e/300c797793f27c70c9e2d6b8c17514e67d4c_2560xt1440_Q100.jpg$image
+gg.deals##.pinned-bg.pinned.with-image.gg-full-content-widget
+
+! 12 sty 2025 https://shop.baltrade.eu
+shop.baltrade.eu##.cover
+
+! 17 sty 2025 https://www.playground.ru
+||www.playground.ru/img/pg-bonus-promo.mp4$media
+||www.playground.ru/img/pg-bonus-promo.mp4$media
+
+! 22 sty 2025 https://americas.lexar.com
+americas.lexar.com##.active.modal-download > .modal-wrap
+americas.lexar.com##.active.modal-download > .overlay
+americas.lexar.com##.active.modal-download
+
+! 7 lut 2025 https://www.mediaexpert.pl
+www.mediaexpert.pl##[alt="KONTO PLUS / MEDIAEXPERT PLUS - bazowe promocje koszykowe"]
+www.mediaexpert.pl##.background-parallax
+www.mediaexpert.pl##.call-us
+
+||en.softonic.com^$all
+||en.uptodown.com^$all
+||faronics.com^$all
+startpage.com##a[href*="en.softonic.com"]:upward(1)
+startpage.com##a[href*="en.uptodown.com"]:upward(1)
+startpage.com##a[href*="en.download.it"]:upward(1)
+startpage.com##a[href*="faronics.com"]:upward(1)
+startpage.com##a[href*="flingtrainer.io"]:upward(1)
+startpage.com##a[href*="flingtrainer.us"]:upward(1)
+startpage.com##a[href*="flingcheat.com"]:upward(1)
+startpage.com##a[href*="softonic.pl"]:upward(1)
+startpage.com##a[href*="dobreprogramy.pl"]:upward(1)
+startpage.com##a[href*="instalki.pl"]:upward(1)
+startpage.com##a[href*="flingtrainer.net"]:upward(1)
+
+! 27 sie 2025 https://mk-sprzedaz.olx.pl
+mk-sprzedaz.olx.pl##.css-kxugv0
+
+||youtube.com/channel/*UCaxWAd6mcrL1CWZdkUR4Kwg*$all
+||youtube.com/channel/*UClpfADgJ8RwK6Pmp6VPrS1g*$all
+||m.youtube.com/channel/*UCaxWAd6mcrL1CWZdkUR4Kwg*$all
+||m.youtube.com/channel/*UClpfADgJ8RwK6Pmp6VPrS1g*$all
+
+||youtube.com/watch?v=*UCaxWAd6mcrL1CWZdkUR4Kwg*$all
+||youtube.com/watch?v=*UClpfADgJ8RwK6Pmp6VPrS1g*$all
+||m.youtube.com/watch?v=*UCaxWAd6mcrL1CWZdkUR4Kwg*$all
+||m.youtube.com/watch?v=*UClpfADgJ8RwK6Pmp6VPrS1g*$all
+
+startpage.com##a[href*="temu.com/pl"]:upward(1)
+startpage.com##a[href*="temu.com"]:upward(1)
+||temu.com^$all
+||wetnova.best^$all
+
+! 20 paź 2025 https://www.euro.com.pl
+https://www.euro.com.pl/cms/loteria-euro.bhtml
+
+! 10 mar 2026 https://sourceforge.net
+sourceforge.net###vibe-main-row
+sourceforge.net###vibe-coding-bar
+
+! 13 mar 2026 https://ombre.pl
+||www.salesmanago.pl^$all
+
+@@||cloudflare.com^
+
+||perfo.salestube.pl^$all
+
+! 13 kwi 2026 https://monitorpromocji.pl
+||monitorpromocji.pl/banners/*.jpg$image
+
+! 20 kwi 2026 https://www.mediaexpert.pl
+www.mediaexpert.pl##.home-carousel
+
+! 13 maj 2026 https://www.facebook.com
+www.facebook.com##.has-finished-comet-page
+www.facebook.com##.AdBox Ad advert post-ads
+www.facebook.com##.advertising_widget
+www.facebook.com##.login_popup_cta_form
+||https://www.facebook.com/login/device-based/regular/login/?login_attempt=1
+||https://www.facebook.com/unsupportedbrowser
+www.mediaexpert.pl##.is-sticky.promobar
+www.mediaexpert.pl##.background-parallax
+www.mediaexpert.pl#@#.links
+www.mediaexpert.pl#@#.share-menu
+www.mediaexpert.pl#@#.is-regular.icon.download01
+www.mediaexpert.pl#@#.spark-link.download.link
+www.mediaexpert.pl#@#.icon-share
+www.mediaexpert.pl#@#:not(.sharingOptionsGroup) > .share-menu
+
+
+||https://whatsmyname.me^
+||https://whatsmyname.io^
+||https://whatsmyname.pro^
+||https://www.whatismyname.org^
+||https://whatsmyname.ink^
+||https://whatsmynameapp.net^
+||https://tools.osintnewsletter.com^
+startpage.com##a[href*="whatsmyname.me"]:upward(1)
+startpage.com##a[href*="whatsmyname.io"]:upward(1)
+startpage.com##a[href*="whatsmyname.pro"]:upward(1)
+startpage.com##a[href*="whatsmyname.ink"]:upward(1)
+startpage.com##a[href*="whatismyname.org"]:upward(1)
+startpage.com##a[href*="whatsmynameapp.net"]:upward(1)
+startpage.com##a[href*="tools.osintnewsletter.com"]:upward(1)
+
+! 1 lip 2026 https://www.reddit.com
+www.reddit.com##.overflow-hidden.relative.p-md.bg-neutral-background-weak.rounded-4.m-md.w-\[251px\].h-\[calc\(100vh-64px-56px\)\].flex-col.flex
+
+! 22 lip 2026 https://www.deepl.com
+www.deepl.com##.animatedLogoCloud-module-scss-module__01XDzW__running.animatedLogoCloud-module-scss-module__01XDzW__ltr.animatedLogoCloud-module-scss-module__01XDzW__scroller
+www.deepl.com##.homeExperience-module-scss-module__X9pw5G__homeExperience
+
+! 7 sie 2026 https://allegro.pl
+allegro.pl##._a3585_qgjBs.mdwl_5r.mnyp_5r.mefy_5r.m911_5r.m0qj_5r.mqen_m6.mlmm_56.mjb5_zr.mnjl_0.mp7g_oz.mpof_ki
+
+! 10 sie 2026 https://www.startpage.com
+www.startpage.com##.css-6cjynv
+
+! 15 sie 2026 https://www.reddit.com
+www.reddit.com##rpl-modal-card
+
+! 16 sie 2026 https://www.reddit.com
+www.reddit.com###desktop-dynamic-upsell-dialog
+
+||springserve.com^$all
+||metrix.magnite.com^$all
+||adserve.amagi.com^$all
+||ads.videoamp.com^$all
+||proxy.totalconnect.tv^$all
+||ads.vizio.com^$all
+||ads.yuppads.com^$all
+||ads.goldbach-germany.de^$all
+||clearline.magnite.com^$all
+||openap.tech^$all
+||ads.frndlytv.com^$all
+||ads.kidoodle.tv^$all
+||metrix.spotx.tv^$all
+||audiencemediatv.com^$all
+||ads.spotx.tv^$all
+
+! 21 wrz 2026 https://www.mediaexpert.pl
+www.mediaexpert.pl##.is-focus-link-outline.listing-carousel
+www.mediaexpert.pl##.shop-ears
+www.mediaexpert.pl##.shop-ear.ear.ear-left
+www.mediaexpert.pl##.shop-ear-container
+www.mediaexpert.pl##.shop-ear.ear.ear-right
+www.mediaexpert.pl##.footer-app-banner
+www.mediaexpert.pl##.recent-guides
+www.mediaexpert.pl##.find-best-offers
+www.mediaexpert.pl##.new-editor_adservers
+www.mediaexpert.pl##.adserver-wrapper
+www.mediaexpert.pl##.footer-banners-grid
+www.mediaexpert.pl##.container.is-homepage
+www.mediaexpert.pl###homepage-banners
+www.mediaexpert.pl###banners-before-recommendations > .banners-before-recommendations
+www.mediaexpert.pl##.product-show-section.installment.item.product-menu-item
+www.mediaexpert.pl##.carousel-wrapper
+www.mediaexpert.pl##.client-recommendations
+www.mediaexpert.pl##.after-offers
+www.mediaexpert.pl##.is-focus-box.menu-links
+www.mediaexpert.pl##.recommendation-skeleton
+
+! 21 wrz 2026 https://www.pepper.pl
+www.pepper.pl##.hide--toW4.flex--dir-col.flex.listLayout-side--right.listLayout-side
+www.pepper.pl##.overflow--hidden.aGrid.listLayout-box
+
+! 21 wrz 2026 https://www.euro.com.pl
+www.euro.com.pl##.home-page-euro__area-limited-promotion
+www.euro.com.pl##.home-page-euro__area-circle-banners-1
+www.euro.com.pl##.thematic-section-wrapper__segment-item
+www.euro.com.pl##.home-page-euro__area-expert-advice
+www.euro.com.pl##.home-page-euro__area-gift-guide
+www.euro.com.pl##.home-page-euro__area-rankings-rotator
+www.euro.com.pl##.home-page-euro__area-brands-section
+www.euro.com.pl##.footer-container__section--seo-links.footer-container__section
+www.euro.com.pl##.footer-container__recent-articles
+www.euro.com.pl##.footer-container__footer-banner
+www.euro.com.pl##.home-page-euro__area-rotator
+www.euro.com.pl##.product-list__header-banner
+www.euro.com.pl##ems-among-products-banner > .banner
+www.euro.com.pl##.product-list__others-watched
+www.euro.com.pl##.product-list__description-seo
+www.euro.com.pl##.product-list > .product-list__articles
+www.euro.com.pl##.box--radius.product-card__insurance-and-services-box.box
+www.euro.com.pl###accessories
+www.euro.com.pl##ems-others-watched
+
+! 21 wrz 2026 https://www.morele.net
+www.morele.net###promotion_slider_2
+www.morele.net##.slider-box-lastViewed.slider-box-wr
+www.morele.net##.w-100.about_company-slider
+www.morele.net##.is-init.slider-box-news.card.slider-box.slider-box-wr
+www.morele.net##.home-sections
+www.morele.net##.ask-experts
+www.morele.net##.shopping-guides
+www.morele.net##.tag-cloud.category__tag-cloud
+www.morele.net##.category__description
+www.morele.net##.product-leasing-module.product-module.card
+www.morele.net##.section-accordion.product-module.card.product-installment-module
