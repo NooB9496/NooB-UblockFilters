@@ -257,3 +257,8 @@ www.morele.net##.thulium-chat-wrapper.thulium-mobile-chat.thulium-mobile-chat-op
 www.morele.net##.thulium-chat-wrapper
 www.morele.net##a[href^="https://chat.askspot.io"]
 chat.askspot.io^
+www.morele.net##.is-init.slider-box-department.card.slider-box.slider-box-wr
+www.morele.net##.is-init.slider-box-dynamic.slider-box-wr
+www.morele.net##.is-init.slider-box-banner.card.slider-box.slider-box-wr
+www.morele.net##.is-init.slider-box-expert.card.slider-box.slider-box-wr
+static.klaviyo.com^
