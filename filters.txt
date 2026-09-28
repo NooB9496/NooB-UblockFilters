@@ -224,3 +224,36 @@ www.morele.net##.tag-cloud.category__tag-cloud
 www.morele.net##.category__description
 www.morele.net##.product-leasing-module.product-module.card
 www.morele.net##.section-accordion.product-module.card.product-installment-module
+
+! 26 wrz 2026 https://www.lidl.pl
+www.lidl.pl##.ods-tokens.AHeaderFirstLevel
+www.x-kom.pl##^script:has-text(cdn-cgi/challenge-platform/scripts/jsd/main.js)
+
+! 28 wrz 2026 https://www.x-kom.pl
+www.x-kom.pl##div[class^="parts__ContainerBackground"]
+www.x-kom.pl##div[class^="parts__SectionWrapper"]
+www.x-kom.pl##div[class^="parts__TilesWrapper"]
+www.x-kom.pl##div[class^="parts__BannersWrapper"]
+www.x-kom.pl##div[class^="parts__SeoWrapper"]
+www.x-kom.pl##picture
+www.x-kom.pl###seo-description > p
+www.x-kom.pl##div[class^="parts__SeoDescriptionWrapper"]
+www.x-kom.pl##div[class^="parts__SalesAreaSectionWrapper"]
+www.x-kom.pl##div[class^="parts__StyledMarketingSolutionsProductSlider"]
+www.x-kom.pl##div[class^="parts__AdsHeroWrapper"]
+www.x-kom.pl##div[class^="parts__SectionWrapper-sc"]
+www.x-kom.pl##div[class^="parts__GridContainer-sc"]
+www.x-kom.pl##div[class^="parts__ListingAdsHeroTileWrapper-sc"]
+! www.x-kom.pl##div[class^="sc-da21c2dd"]
+
+www.morele.net##^script:has-text(https://chat.askspot.io/api)
+www.morele.net##.askspot-chat-widget.askspot-chat-widget--closed
+www.morele.net##.ask-widget-chat
+www.morele.net##.js-ask-action-button
+www.morele.net##.Asystent
+www.morele.net##^script:has-text(custom-script)
+www.morele.net##.thulium-chat-wrapper.thulium-mobile-chat
+www.morele.net##.thulium-chat-wrapper.thulium-mobile-chat.thulium-mobile-chat-opened
+www.morele.net##.thulium-chat-wrapper
+www.morele.net##a[href^="https://chat.askspot.io"]
+chat.askspot.io^
