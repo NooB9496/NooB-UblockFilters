@@ -262,3 +262,8 @@ www.morele.net##.is-init.slider-box-dynamic.slider-box-wr
 www.morele.net##.is-init.slider-box-banner.card.slider-box.slider-box-wr
 www.morele.net##.is-init.slider-box-expert.card.slider-box.slider-box-wr
 static.klaviyo.com^
+
+! 29 wrz 2026 https://www.mediaexpert.pl
+www.mediaexpert.pl##.is-desktop.screen-protection-services-section
+www.mediaexpert.pl##.installment.is-highlighted.is-focus-link-outline.installment-simulation
+www.mediaexpert.pl##.is-regular.leasing
