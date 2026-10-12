@@ -281,4 +281,4 @@ allegro.pl##[data-box-name="rekomendacje"]
 allegro.pl##[data-box-name="seo text container"]
 
 www.deepl.com##div.\[\.is-home_\&\]\:hidden
-noai.duckduckgo.com##.footer
+noai.duckduckgo.com##div[class^="footer"]
