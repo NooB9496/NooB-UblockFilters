@@ -282,3 +282,7 @@ allegro.pl##[data-box-name="seo text container"]
 
 www.deepl.com##div.\[\.is-home_\&\]\:hidden
 noai.duckduckgo.com##div[class^="footer"]
+olx.pl##[data-testid="business-banner"]
+olx.pl##[data-testid="site-information"]
+olx.pl##[data-testid="popular-box"]
+olx.pl##[data-cy="seo-similar-searches"]
