@@ -1,5 +1,5 @@
 ! Title: NooB9496 Personal filters for uBlock & AdGuard
-! Last modified: 29.09.2026
+! Last modified: 12.10.2026
 ! Description: Personal filters optimized for uBlock, works also with AdGuard
 ! Homepage: https://github.com/NooB9496/NooB-UblockFilters
 ! License: https://github.com/NooB9496/NooB-UblockFilters/blob/main/LICENSE
@@ -267,3 +267,17 @@ static.klaviyo.com^
 www.mediaexpert.pl##.is-desktop.screen-protection-services-section
 www.mediaexpert.pl##.installment.is-highlighted.is-focus-link-outline.installment-simulation
 www.mediaexpert.pl##.is-regular.leasing
+! 12 paź 2026
+allegro.pl##[aria-label="Zapytaj Asystenta Allegro"]
+allegro.pl##[data-box-name="Automatic Content"]
+allegro.pl##[data-box-name="Showcase Container Dune"]
+allegro.pl##[data-box-name="allegro.dune.slider2"]
+allegro.pl##[data-box-name="articles"]
+allegro.pl##[data-box-name="content"]
+allegro.pl##[data-box-name="dune"]
+allegro.pl##[data-box-name="f-expander"]
+allegro.pl##[data-box-name="kategorie komplementarne kontener"]
+allegro.pl##[data-box-name="rekomendacje"]
+allegro.pl##[data-box-name="seo text container"]
+
+www.deepl.com##div.\[\.is-home_\&\]\:hidden
