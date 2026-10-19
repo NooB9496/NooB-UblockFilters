@@ -1,5 +1,5 @@
 ! Title: NooB9496 Personal filters for uBlock & AdGuard
-! Last modified: 16.10.2026
+! Last modified: 20.10.2026
 ! Description: Personal filters optimized for uBlock, works also with AdGuard
 ! Homepage: https://github.com/NooB9496/NooB-UblockFilters
 ! License: https://github.com/NooB9496/NooB-UblockFilters/blob/main/LICENSE
@@ -141,9 +141,6 @@ startpage.com##a[href*="whatsmynameapp.net"]:upward(1)
 startpage.com##a[href*="tools.osintnewsletter.com"]:upward(1)
 
 www.reddit.com##.overflow-hidden.relative.p-md.bg-neutral-background-weak.rounded-4.m-md.w-\[251px\].h-\[calc\(100vh-64px-56px\)\].flex-col.flex
-
-www.deepl.com##.animatedLogoCloud-module-scss-module__01XDzW__running.animatedLogoCloud-module-scss-module__01XDzW__ltr.animatedLogoCloud-module-scss-module__01XDzW__scroller
-www.deepl.com##.homeExperience-module-scss-module__X9pw5G__homeExperience
 
 allegro.pl##._a3585_qgjBs.mdwl_5r.mnyp_5r.mefy_5r.m911_5r.m0qj_5r.mqen_m6.mlmm_56.mjb5_zr.mnjl_0.mp7g_oz.mpof_ki
 
@@ -289,3 +286,14 @@ olx.pl##[data-cy="seo-similar-searches"]
 
 www.startpage.com##[data-testid="site-footer"]
 www.startpage.com##.feedback-button
+
+www.deepl.com##div.__footer
+www.deepl.com##div.\[\.hide-marketing-home-experience_\&\]\:hidden
+
+www.lowcychin.pl###ccc_currency_converter_calculator-3.widget_ccc_currency_converter_calculator
+www.lowcychin.pl###recent-comments-2.widget_recent_comments
+www.lowcychin.pl###text-23
+www.lowcychin.pl###text-25
+www.lowcychin.pl###text-27
+www.lowcychin.pl###text-3
+www.lowcychin.pl##.widget_text.widget.widget_custom_html
