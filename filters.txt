@@ -297,3 +297,15 @@ www.lowcychin.pl###text-25
 www.lowcychin.pl###text-27
 www.lowcychin.pl###text-3
 www.lowcychin.pl##.widget_text.widget.widget_custom_html
+
+www.sferis.pl##.df:nth-of-type(3)
+www.sferis.pl##.tdb
+www.sferis.pl##.uscroll-a
+www.sferis.pl##div.tlf.sn.tlc
+www.sferis.pl##div.tlf.sn.tll
+www.sferis.pl##div.tlf.st.tlc
+www.sferis.pl##div.tlf.st.tll
+www.sferis.pl##img.rbg-shape__shapei
+www.sferis.pl##img.tbg-shape__shapen
+www.sferis.pl##img[src][loading][style]
+www.sferis.pl##section:nth-of-type(2)
