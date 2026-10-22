@@ -309,3 +309,5 @@ www.sferis.pl##img.rbg-shape__shapei
 www.sferis.pl##img.tbg-shape__shapen
 www.sferis.pl##img[src][loading][style]
 www.sferis.pl##section:nth-of-type(2)
+
+||www.olares.com^$all
