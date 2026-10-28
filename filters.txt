@@ -316,3 +316,6 @@ www.kinguin.net###gry-steam
 www.kinguin.net##[alt="Chatbot milo"]
 www.kinguin.net##[data-cy="footerUpperSection"]
 allegro.pl##div[style][data-hydrated] > div
+www.kinguin.net##a.sc-dwalKd.kvnpMA
+www.kinguin.net##div.sc-fmzyuX
+www.kinguin.net##div.sc-iSrTKI.dfRzd
