@@ -319,3 +319,9 @@ allegro.pl##div[style][data-hydrated] > div
 www.kinguin.net##a.sc-dwalKd.kvnpMA
 www.kinguin.net##div.sc-fmzyuX
 www.kinguin.net##div.sc-iSrTKI.dfRzd
+
+store.steampowered.com###SaleSection_24749
+store.steampowered.com##.contenthubmaincarousel
+store.steampowered.com##.discoveryqueue
+store.steampowered.com##.dlc_for_you
+store.steampowered.com##.expanded > [style=""]
