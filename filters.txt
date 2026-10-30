@@ -329,4 +329,4 @@ store.steampowered.com##.expanded > [style=""]
 www.cda.pl##a.reg-premium-load-js[href="https://premium.cda.pl/rejestracja"]
 www.cda.pl##div.mb-slider-wrapper
 www.cda.pl##div.player-prem-bg-text
-www.cda.pl##.fl-context-content
+www.cda.pl##.fl-context-wrapp
