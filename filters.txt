@@ -1,5 +1,5 @@
 ! Title: NooB9496 Personal filters for uBlock & AdGuard
-! Last modified: 30.10.2026
+! Last modified: 2.11.2026
 ! Description: Personal filters optimized for uBlock, works also with AdGuard
 ! Homepage: https://github.com/NooB9496/NooB-UblockFilters
 ! License: https://github.com/NooB9496/NooB-UblockFilters/blob/main/LICENSE
@@ -330,3 +330,11 @@ www.cda.pl##a.reg-premium-load-js[href="https://premium.cda.pl/rejestracja"]
 www.cda.pl##div.mb-slider-wrapper
 www.cda.pl##div.player-prem-bg-text
 www.cda.pl##.fl-context-wrapp
+www.mgsm.pl##div[class^="promo-sticky--desktop"]
+www.mgsm.pl##div[class^="advertisement"]
+www.mgsm.pl##div[class^="promo-sticky__item"]
+www.mgsm.pl##div[class^="promo-sticky"]
+www.mgsm.pl##div[class^="dialog opened"]
+www.mgsm.pl##div[class^="dialog__window"]
+www.mgsm.pl##div[class^="dialog__mask"]
+www.mgsm.pl##div[class^="contianer"]
