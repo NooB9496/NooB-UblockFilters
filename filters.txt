@@ -339,3 +339,4 @@ www.mgsm.pl##div[class^="dialog__window"]
 www.mgsm.pl##div[class^="dialog__mask"]
 www.mgsm.pl##div[class^="contianer"]
 www.mgsm.pl##div[class^="youtube-playlist"]
+www.mgsm.pl##a.youtube-sneakpeak
