@@ -1,5 +1,5 @@
 ! Title: NooB9496 Personal filters for uBlock & AdGuard
-! Last modified: 19.11.2026
+! Last modified: 21.11.2026
 ! Description: Personal filters optimized for uBlock, works also with AdGuard
 ! Homepage: https://github.com/NooB9496/NooB-UblockFilters
 ! License: https://github.com/NooB9496/NooB-UblockFilters/blob/main/LICENSE
@@ -355,3 +355,6 @@ sungroup.pl##.big-video-block > .big-video__inner > .is-video > #videoplay.video
 sungroup.pl##.video-pos.video-desktop
 sungroup.pl##div.parallax.is-video
 sungroup.pl##div.parallax.is-video > video
+
+www.mediaexpert.pl###expert-help-bubble-content
+www.mediaexpert.pl###help-bubble-content
